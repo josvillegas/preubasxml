@@ -1,0 +1,21 @@
+<tickets>
+  <ticket>
+    <id>12345</id>
+    <fecha_creacion>2024-07-16T10:00:00</fecha_creacion>
+    <usuario>
+      <nombre>Juan Pérez</nombre>
+      <id>JP123</id>
+    </usuario>
+    <asunto>Problemas con la generación de certificados</asunto>
+    <descripcion>No puedo generar mi certificado</descripcion>
+    <estado>Abierto</estado>
+    <categoria>Cursos</categoria>
+    <asignado_a>Soporte EAD</asignado_a>
+    <comentarios>
+      <comentario>
+        <fecha>2025-07-16T10:15:00</fecha>
+        <texto>Se le envio el siguiente enlace para que pueda generar sus certificados https://youtu.be/HfBMCKp_Bm8</texto>
+      </comentario>
+    </comentarios>
+  </ticket>
+</tickets>
