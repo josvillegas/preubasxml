@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solutions>
+
+  <solution id="certificado001">
+    <title>Generar certificado de curso completado</title>
+    <description>Guía paso a paso para obtener el certificado de un curso completado en la plataforma educativa.</description>
+    <problem>No se sabe cómo generar el certificado luego de completar un curso.</problem>
+    <steps>
+      <step>Ingresar a la plataforma y ubicar los cursos completados.</step>
+      <step>Seleccionar el curso deseado y hacer clic en "Generar certificado".</step>
+      <step>Verificar los datos personales en el paso uno del formulario y hacer clic en "Siguiente".</step>
+      <step>En el paso dos, visualizar el certificado sin firma y hacer clic en "Confirmar y firmar".</step>
+      <step>Esperar a que se genere el certificado firmado y hacer clic en "Ver mi certificado".</step>
+      <step>Elegir entre ver o descargar el certificado desde la ventana emergente.</step>
+    </steps>
+    <expected_result>Certificado firmado generado correctamente y disponible para descarga.</expected_result>
+    <price currency="PEN">0.00</price>
+    <language>es</language>
+    <tags>
+      <tag>certificado</tag>
+      <tag>educación</tag>
+      <tag>plataforma</tag>
+    </tags>
+    <link>https://www.youtube.com/watch?v=HfBMCKp_Bm8</link>
+    <last_updated>2025-07-15</last_updated>
+  </solution>
+
+  <solution id="diploma001">
+    <title>Solicitar diploma mediante el portal Lamb Trámite</title>
+    <description>Proceso detallado para solicitar un diploma usando el portal Lamb Trámite.</description>
+    <problem>El usuario no sabe cómo realizar el trámite completo para solicitar su diploma.</problem>
+    <steps>
+      <step>Ingresar al portal y seleccionar "Solicitar diploma".</step>
+      <step>Iniciar sesión si se solicita y seleccionar la opción "Solicitar".</step>
+      <step>En el paso uno, elegir el trámite y hacer clic en "Solicitar".</step>
+      <step>En el paso dos, validar requisitos y adjuntar documento de identidad.</step>
+      <step>En el paso tres, verificar los datos personales y elegir tipo de comprobante.</step>
+      <step>Confirmar la solicitud y proceder al pago usando Yape o tarjeta.</step>
+      <step>Acceder a "Mis trámites" para hacer seguimiento del proceso.</step>
+      <step>Descargar el comprobante de pago y el documento de solicitud.</step>
+      <step>Una vez finalizado el trámite, descargar el diploma desde "Mi trámite".</step>
+    </steps>
+    <expected_result>Diploma solicitado correctamente y disponible para descarga al finalizar el proceso.</expected_result>
+    <price currency="PEN">0.00</price>
+    <language>es</language>
+    <tags>
+      <tag>diploma</tag>
+      <tag>trámite</tag>
+      <tag>educación</tag>
+    </tags>
+    <link>https://youtu.be/QPkDCPfdADs?si=nY7wahsUG6cw3Aoe</link>
+    <last_updated>2025-07-15</last_updated>
+  </solution>
+
+</solutions>
