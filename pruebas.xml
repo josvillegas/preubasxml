@@ -1,31 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:g="http://base.google.com/ns/1.0">
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
-    <title>Tickets de Soporte</title>
-    <link>https://tusitio.com/soporte</link>
-    <description>Base de conocimientos para Mira AI</description>
+    <title>Soporte Educación Continua</title>
+    <link>https://helpdesk.upeu.edu.pe/ec-participantes/</link>
+    <description>Sitio web para visualizar los problemas con los servicios de Educación Continua</description>
 
     <item>
       <g:id>12345</g:id>
-      <g:title>Problemas con la generación de certificados</g:title>
-      <g:description>No puedo generar mi certificado. Solución: https://youtu.be/HfBMCKp_Bm8</g:description>
-      <g:link>https://tusitio.com/ticket/12345</g:link>
-      <g:price>0.00 PEN</g:price>
-      <g:condition>new</g:condition>
-      <g:google_product_category>EAD</g:google_product_category>
+      <g:title>¿Cómo generar mi certificado?</g:title>
+      <g:description>Visualiza tus cursos en proceso y completados. Selecciona la opción para generar certificado, verifica tus datos y confirma la firma digital. Una vez firmado, accede a “Ver mi certificado” donde podrás visualizar y descargar el documento con detalles del curso, nota, unidades, sesiones y ponderación. Puedes guardar el archivo directamente o revisarlo antes de descargar. </g:description>
+      <g:link>https://www.youtube.com/watch?v=HfBMCKp_Bm8</g:link>
+      <g:google_product_category>Educación Continua</g:google_product_category>
+      <category>Certificados</category>
+      <g:product_type>Certificado</g:product_type>
     </item>
 
     <item>
       <g:id>12346</g:id>
-      <g:title>Problemas al solicitar diploma</g:title>
-      <g:description>No puedo solicitar el diploma. Solución: https://www.youtube.com/watch?v=QPkDCPfdADs</g:description>
-      <g:link>https://tusitio.com/ticket/12346</g:link>
-      <g:price>0.00 PEN</g:price>
-      <g:condition>new</g:condition>
-      <g:google_product_category>EAD</g:google_product_category>
+      <g:title>¿Cómo solicitar un diploma?</g:title>
+      <g:description>Al solicitar un diploma, accederás al portal Lam Trámite donde completarás un formulario en tres pasos: selección del trámite, validación de requisitos con tu DNI, y confirmación de datos personales. Luego podrás elegir el tipo de comprobante y proceder al pago vía billetera digital o tarjeta. Tras el pago, podrás revisar el estado del trámite, descargar el comprobante y la solicitud. Al completarse todo el proceso, recibirás una notificación y podrás descargar tu diploma desde “Mi trámite”.</g:description>
+      <g:link>https://youtu.be/QPkDCPfdADs?si=nY7wahsUG6cw3Aoe</g:link>
+      <g:google_product_category>Educación Continua</g:google_product_category>
+      <g:product_type>Diplomas</g:product_type>
+      <category>Diplomas</category>
     </item>
 
   </channel>
 </rss>
-
