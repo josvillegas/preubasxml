@@ -18,4 +18,23 @@
       </comentario>
     </comentarios>
   </ticket>
+  <ticket>
+    <id>12345</id>
+    <fecha_creacion>2024-07-16T10:00:00</fecha_creacion>
+    <usuario>
+      <nombre>Juan Pérez</nombre>
+      <id>JP123</id>
+    </usuario>
+    <asunto>Problemas solicito mi diploma</asunto>
+    <descripcion>Problemas con el diploma</descripcion>
+    <estado>Abierto</estado>
+    <categoria>Cursos</categoria>
+    <asignado_a>Soporte EAD</asignado_a>
+    <comentarios>
+      <comentario>
+        <fecha>2025-07-16T10:15:00</fecha>
+        <texto>Se le envio el siguiente enlace para que pueda solicitar su diploma https://www.youtube.com/watch?v=QPkDCPfdADs</texto>
+      </comentario>
+    </comentarios>
+  </ticket>
 </tickets>
