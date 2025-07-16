@@ -1,40 +1,29 @@
-<tickets>
-  <ticket>
-    <id>12345</id>
-    <fecha_creacion>2024-07-16T10:00:00</fecha_creacion>
-    <usuario>
-      <nombre>Juan Pérez</nombre>
-      <id>JP123</id>
-    </usuario>
-    <asunto>Problemas con la generación de certificados</asunto>
-    <descripcion>No puedo generar mi certificado</descripcion>
-    <estado>Abierto</estado>
-    <categoria>Cursos</categoria>
-    <asignado_a>Soporte EAD</asignado_a>
-    <comentarios>
-      <comentario>
-        <fecha>2025-07-16T10:15:00</fecha>
-        <texto>Se le envio el siguiente enlace para que pueda generar sus certificados https://youtu.be/HfBMCKp_Bm8</texto>
-      </comentario>
-    </comentarios>
-  </ticket>
-  <ticket>
-    <id>12345</id>
-    <fecha_creacion>2024-07-16T10:00:00</fecha_creacion>
-    <usuario>
-      <nombre>Juan Pérez</nombre>
-      <id>JP123</id>
-    </usuario>
-    <asunto>Problemas solicito mi diploma</asunto>
-    <descripcion>Problemas con el diploma</descripcion>
-    <estado>Abierto</estado>
-    <categoria>Cursos</categoria>
-    <asignado_a>Soporte EAD</asignado_a>
-    <comentarios>
-      <comentario>
-        <fecha>2025-07-16T10:15:00</fecha>
-        <texto>Se le envio el siguiente enlace para que pueda solicitar su diploma https://www.youtube.com/watch?v=QPkDCPfdADs</texto>
-      </comentario>
-    </comentarios>
-  </ticket>
-</tickets>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Tickets de Soporte</title>
+    <link>https://tusitio.com/soporte</link>
+    <description>Base de conocimientos para Mira AI</description>
+
+    <item>
+      <g:id>12345</g:id>
+      <g:title>Problemas con la generación de certificados</g:title>
+      <g:description>No puedo generar mi certificado. Solución: https://youtu.be/HfBMCKp_Bm8</g:description>
+      <g:link>https://tusitio.com/ticket/12345</g:link>
+      <g:price>0.00 PEN</g:price>
+      <g:condition>new</g:condition>
+    </item>
+
+    <item>
+      <g:id>12346</g:id>
+      <g:title>Problemas al solicitar diploma</g:title>
+      <g:description>No puedo solicitar el diploma. Solución: https://www.youtube.com/watch?v=QPkDCPfdADs</g:description>
+      <g:link>https://tusitio.com/ticket/12346</g:link>
+      <g:price>0.00 PEN</g:price>
+      <g:condition>new</g:condition>
+    </item>
+
+  </channel>
+</rss>
+
