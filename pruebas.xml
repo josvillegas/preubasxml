@@ -13,6 +13,7 @@
       <g:link>https://tusitio.com/ticket/12345</g:link>
       <g:price>0.00 PEN</g:price>
       <g:condition>new</g:condition>
+      <g:google_product_category>EAD</g:google_product_category>
     </item>
 
     <item>
@@ -22,6 +23,7 @@
       <g:link>https://tusitio.com/ticket/12346</g:link>
       <g:price>0.00 PEN</g:price>
       <g:condition>new</g:condition>
+      <g:google_product_category>EAD</g:google_product_category>
     </item>
 
   </channel>
