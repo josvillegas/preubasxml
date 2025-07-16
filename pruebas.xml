@@ -11,7 +11,7 @@
       <g:link>https://www.youtube.com/watch?v=HfBMCKp_Bm8</g:link>
       <g:google_product_category>Educación Continua</g:google_product_category>
       <category>Certificados</category>
-      <precio>No aplica</precio>
+      <g:price>0</g:price>
       <g:product_type>Certificado</g:product_type>
     </item>
 
@@ -22,7 +22,7 @@
       <g:link>https://youtu.be/QPkDCPfdADs?si=nY7wahsUG6cw3Aoe</g:link>
       <g:google_product_category>Educación Continua</g:google_product_category>
       <g:product_type>Diplomas</g:product_type>
-      <precio>No aplica</precio>
+      <g:price>0</g:price>
       <category>Diplomas</category>
     </item>
 
