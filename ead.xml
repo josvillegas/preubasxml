@@ -1,55 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solutions>
-
-  <solution id="certificado001">
-    <title>Generar certificado de curso completado</title>
-    <description>Guía paso a paso para obtener el certificado de un curso completado en la plataforma educativa.</description>
-    <problem>No se sabe cómo generar el certificado luego de completar un curso.</problem>
-    <steps>
-      <step>Ingresar a la plataforma y ubicar los cursos completados.</step>
-      <step>Seleccionar el curso deseado y hacer clic en "Generar certificado".</step>
-      <step>Verificar los datos personales en el paso uno del formulario y hacer clic en "Siguiente".</step>
-      <step>En el paso dos, visualizar el certificado sin firma y hacer clic en "Confirmar y firmar".</step>
-      <step>Esperar a que se genere el certificado firmado y hacer clic en "Ver mi certificado".</step>
-      <step>Elegir entre ver o descargar el certificado desde la ventana emergente.</step>
-    </steps>
-    <expected_result>Certificado firmado generado correctamente y disponible para descarga.</expected_result>
-    <price currency="PEN">0.00</price>
+<rss version="2.0"
+     xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Soluciones Académicas - Tutoriales</title>
+    <link>https://tusitio.com/tutoriales</link>
+    <description>Guías prácticas para resolver trámites académicos en línea</description>
     <language>es</language>
-    <tags>
-      <tag>certificado</tag>
-      <tag>educación</tag>
-      <tag>plataforma</tag>
-    </tags>
-    <link>https://www.youtube.com/watch?v=HfBMCKp_Bm8</link>
-    <last_updated>2025-07-15</last_updated>
-  </solution>
 
-  <solution id="diploma001">
-    <title>Solicitar diploma mediante el portal Lamb Trámite</title>
-    <description>Proceso detallado para solicitar un diploma usando el portal Lamb Trámite.</description>
-    <problem>El usuario no sabe cómo realizar el trámite completo para solicitar su diploma.</problem>
-    <steps>
-      <step>Ingresar al portal y seleccionar "Solicitar diploma".</step>
-      <step>Iniciar sesión si se solicita y seleccionar la opción "Solicitar".</step>
-      <step>En el paso uno, elegir el trámite y hacer clic en "Solicitar".</step>
-      <step>En el paso dos, validar requisitos y adjuntar documento de identidad.</step>
-      <step>En el paso tres, verificar los datos personales y elegir tipo de comprobante.</step>
-      <step>Confirmar la solicitud y proceder al pago usando Yape o tarjeta.</step>
-      <step>Acceder a "Mis trámites" para hacer seguimiento del proceso.</step>
-      <step>Descargar el comprobante de pago y el documento de solicitud.</step>
-      <step>Una vez finalizado el trámite, descargar el diploma desde "Mi trámite".</step>
-    </steps>
-    <expected_result>Diploma solicitado correctamente y disponible para descarga al finalizar el proceso.</expected_result>
-    <price currency="PEN">0.00</price>
-    <language>es</language>
-    <tags>
-      <tag>diploma</tag>
-      <tag>trámite</tag>
-      <tag>educación</tag>
-    </tags>
-    <link>https://youtu.be/QPkDCPfdADs?si=nY7wahsUG6cw3Aoe</link>
-    <last_updated>2025-07-15</last_updated>
-  </solution>
+    <item>
+      <g:id>solicitud-diploma</g:id>
+      <g:title>Guía paso a paso: Solicitar diploma universitario</g:title>
+      <g:description>
+        Aprende cómo solicitar tu diploma en LAMB Trámite:
+        1. Haz clic en "Solicitar diploma" en la plataforma.
+        2. Inicia sesión si es requerido por el sistema.
+        3. Selecciona el trámite correspondiente y haz clic en "Solicitar".
+        4. Adjunta tu documento de identidad en formato PDF o JPG.
+        5. Valida los requisitos previos y continúa al paso 3.
+        6. Verifica y corrige tus datos personales si es necesario.
+        7. Selecciona el tipo de comprobante y confirma la solicitud.
+        8. Acepta los términos y realiza el pago con Yape o tarjeta.
+        9. Ve a "Mis trámites" y revisa el progreso del proceso.
+        10. Descarga el comprobante de pago y el documento de la solicitud.
+        11. Cuando finalice el trámite, descarga tu diploma desde "Mi trámite".
+      </g:description>
+      <g:link>https://tusitio.com/tutoriales/solicitar-diploma</g:link>
+      <g:image_link>https://tusitio.com/img/diploma-universitario.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>0.00 PEN</g:price>
+      <g:brand>TusTutoriales</g:brand>
+      <g:product_type>Soluciones/Diplomas</g:product_type>
+    </item>
 
-</solutions>
+     <item>
+      <g:id>generar-certificado</g:id>
+      <g:title>Guía paso a paso: Obtener certificado de curso completado</g:title>
+      <g:description>
+        Sigue estos pasos para descargar tu certificado:
+        1. Inicia sesión en la plataforma educativa correspondiente.
+        2. Dirígete a la sección "Mis cursos completados".
+        3. Localiza el curso finalizado y haz clic en el botón "Ver certificado".
+        4. Revisa que tu nombre esté correctamente escrito.
+        5. Si todo es correcto, selecciona "Descargar PDF" o "Compartir enlace".
+        6. Puedes verificar la validez del certificado con el código único mostrado.
+        7. Algunos cursos pueden solicitar una pequeña validación adicional antes de generar el certificado.
+        8. Si el botón no aparece, asegúrate de haber completado todos los módulos requeridos.
+      </g:description>
+      <g:link>https://tusitio.com/tutoriales/obtener-certificado</g:link>
+      <g:image_link>https://tusitio.com/img/certificado-digital.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>0.00 PEN</g:price>
+      <g:brand>TusTutoriales</g:brand>
+      <g:product_type>Soluciones/Certificados</g:product_type>
+    </item>
+
+  </channel>
+</rss>
