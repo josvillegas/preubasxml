@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:g="http://base.google.com/ns/1.0"
-     xmlns:atom="http://www.w3.org/2005/Atom">
-  
+<rss version="2.0">
   <channel>
-    <title>Soluciones Académicas - Educación Adventista</title>
-    <link>https://preubasxml.vercel.app/</link>
-    <description>Trámites y certificados disponibles para la comunidad estudiantil</description>
+    <title>Trámites Digitales</title>
+    <link>https://preubasxml.vercel.app</link>
+    <description>Soluciones educativas y administrativas</description>
     <language>es-pe</language>
 
-    <atom:link href="https://preubasxml.vercel.app/ead.xml" rel="self" type="application/rss+xml" />
-
     <item>
-      <title>Generar Certificado de Estudios</title>
+      <title>Generar Certificado Universitario</title>
       <link>https://www.youtube.com/watch?v=HfBMCKp_Bm8</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=HfBMCKp_Bm8</guid>
-      <pubDate>Tue, 16 Jul 2025 14:00:00 -0500</pubDate>
-      <description>Aprende a generar tu certificado de estudios desde la plataforma en solo 3 pasos.</description>
-      <g:price>0.00 PEN</g:price>
-      <g:product_type>Certificado</g:product_type>
+      <description>Permite a estudiantes obtener certificados académicos en línea.</description>
+      <pubDate>Tue, 16 Jul 2025 17:00:00 -0500</pubDate>
     </item>
 
     <item>
-      <title>Solicitar Diploma Digital</title>
+      <title>Obtener Diploma Digital</title>
       <link>https://www.youtube.com/watch?v=QPkDCPfdADs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=QPkDCPfdADs</guid>
-      <pubDate>Tue, 16 Jul 2025 14:10:00 -0500</pubDate>
-      <description>Guía detallada para solicitar y descargar tu diploma digital de egreso.</description>
-      <g:price>0.00 PEN</g:price>
-      <g:product_type>Diplomado</g:product_type>
+      <description>Solicitud y descarga del diploma universitario.</description>
+      <pubDate>Tue, 16 Jul 2025 17:10:00 -0500</pubDate>
     </item>
-
   </channel>
 </rss>
+
