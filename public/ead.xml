@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Trámites Digitales</title>
+    <title>Trámites y Soluciones Digitales</title>
     <link>https://preubasxml.vercel.app</link>
-    <description>Soluciones educativas y administrativas</description>
+    <description>Listado de soluciones universitarias en línea</description>
     <language>es-pe</language>
 
     <item>
       <title>Generar Certificado Universitario</title>
-      <link>https://www.youtube.com/watch?v=HfBMCKp_Bm8</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=HfBMCKp_Bm8</guid>
-      <description>Permite a estudiantes obtener certificados académicos en línea.</description>
-      <pubDate>Tue, 16 Jul 2025 17:00:00 -0500</pubDate>
+      <link>https://preubasxml.vercel.app/certificado</link>
+      <guid>https://preubasxml.vercel.app/certificado</guid>
+      <description>Permite generar el certificado académico de manera digital.</description>
+      <pubDate>Tue, 16 Jul 2025 18:00:00 -0500</pubDate>
     </item>
 
     <item>
       <title>Obtener Diploma Digital</title>
-      <link>https://www.youtube.com/watch?v=QPkDCPfdADs</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=QPkDCPfdADs</guid>
-      <description>Solicitud y descarga del diploma universitario.</description>
-      <pubDate>Tue, 16 Jul 2025 17:10:00 -0500</pubDate>
+      <link>https://preubasxml.vercel.app/diploma</link>
+      <guid>https://preubasxml.vercel.app/diploma</guid>
+      <description>Trámite para solicitar y descargar el diploma universitario.</description>
+      <pubDate>Tue, 16 Jul 2025 18:05:00 -0500</pubDate>
     </item>
+
   </channel>
 </rss>
-
