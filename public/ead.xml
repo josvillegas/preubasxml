@@ -12,6 +12,7 @@
       <guid>https://preubasxml.vercel.app/certificado</guid>
       <description>Permite generar el certificado académico de manera digital.</description>
       <pubDate>Tue, 16 Jul 2025 18:00:00 -0500</pubDate>
+      <category>Certificado</category>
     </item>
 
     <item>
@@ -20,6 +21,7 @@
       <guid>https://preubasxml.vercel.app/diploma</guid>
       <description>Trámite para solicitar y descargar el diploma universitario.</description>
       <pubDate>Tue, 16 Jul 2025 18:05:00 -0500</pubDate>
+      <category>Diplomado</category>
     </item>
 
   </channel>
