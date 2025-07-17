@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:g="http://base.google.com/ns/1.0">
   <channel>
     <title>Tutoriales UNIV</title>
     <link>https://preubasxml.vercel.app/</link>
-    <description>Tutoriales prácticos para estudiantes universitarios</description>
+    <description>Guías prácticas para estudiantes universitarios sobre trámites académicos.</description>
     <language>es</language>
-    <atom:link href="https://preubasxml.vercel.app/ead.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://preubasxml.vercel.app/ead.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Solicitar certificado de estudios</title>
+      <title>Cómo solicitar un certificado</title>
       <link>https://preubasxml.vercel.app/certificado</link>
-      <description>Aprende cómo generar tu certificado académico paso a paso desde la plataforma virtual.</description>
-      <guid>https://preubasxml.vercel.app/certificado</guid>
+      <guid isPermaLink="true">https://preubasxml.vercel.app/certificado</guid>
       <pubDate>Tue, 16 Jul 2025 12:00:00 -0500</pubDate>
+      <description>Conoce los pasos para generar tu certificado de estudios de forma rápida desde el campus virtual.</description>
+      <g:price>0.00 PEN</g:price>
+      <g:product_type>Trámite académico</g:product_type>
     </item>
 
     <item>
-      <title>Obtener tu diploma universitario</title>
+      <title>Tramitar tu diploma universitario</title>
       <link>https://preubasxml.vercel.app/diploma</link>
-      <description>Guía para tramitar tu diploma universitario sin complicaciones.</description>
-      <guid>https://preubasxml.vercel.app/diploma</guid>
-      <pubDate>Tue, 16 Jul 2025 12:05:00 -0500</pubDate>
+      <guid isPermaLink="true">https://preubasxml.vercel.app/diploma</guid>
+      <pubDate>Tue, 16 Jul 2025 12:10:00 -0500</pubDate>
+      <description>Guía paso a paso para tramitar tu diploma desde el portal académico institucional.</description>
+      <g:price>0.00 PEN</g:price>
+      <g:product_type>Trámite académico</g:product_type>
     </item>
   </channel>
 </rss>
