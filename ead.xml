@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:g="http://base.google.com/ns/1.0">
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
     <title>Soluciones Académicas - Tutoriales</title>
     <link>https://tusitio.com/tutoriales</link>
-    <description>Guías prácticas para resolver trámites académicos en línea</description>
+    <description>Guías prácticas para resolver trámites académicos</description>
     <language>es</language>
 
     <item>
-      <g:id>solicitud-diploma</g:id>
+      <g:id>solicitar-diploma-tutorial-20250717</g:id>
       <g:title>Guía paso a paso: Solicitar diploma universitario</g:title>
       <g:description>
-        Aprende cómo solicitar tu diploma en LAMB Trámite:
-        1. Haz clic en "Solicitar diploma" en la plataforma.
+        1. Haz clic en "Solicitar diploma"
         2. Inicia sesión si es requerido por el sistema.
         3. Selecciona el trámite correspondiente y haz clic en "Solicitar".
         4. Adjunta tu documento de identidad en formato PDF o JPG.
@@ -22,7 +20,7 @@
         8. Acepta los términos y realiza el pago con Yape o tarjeta.
         9. Ve a "Mis trámites" y revisa el progreso del proceso.
         10. Descarga el comprobante de pago y el documento de la solicitud.
-        11. Cuando finalice el trámite, descarga tu diploma desde "Mi trámite".
+        11. Cuando finalice, descarga tu diploma desde "Mi trámite".
       </g:description>
       <g:link>https://tusitio.com/tutoriales/solicitar-diploma</g:link>
       <g:image_link>https://tusitio.com/img/diploma-universitario.jpg</g:image_link>
@@ -33,19 +31,18 @@
       <g:product_type>Soluciones/Diplomas</g:product_type>
     </item>
 
-     <item>
-      <g:id>generar-certificado</g:id>
+    <item>
+      <g:id>generar-certificado-tutorial-20250717</g:id>
       <g:title>Guía paso a paso: Obtener certificado de curso completado</g:title>
       <g:description>
-        Sigue estos pasos para descargar tu certificado:
-        1. Inicia sesión en la plataforma educativa correspondiente.
+        1. Inicia sesión…
         2. Dirígete a la sección "Mis cursos completados".
         3. Localiza el curso finalizado y haz clic en el botón "Ver certificado".
         4. Revisa que tu nombre esté correctamente escrito.
         5. Si todo es correcto, selecciona "Descargar PDF" o "Compartir enlace".
         6. Puedes verificar la validez del certificado con el código único mostrado.
         7. Algunos cursos pueden solicitar una pequeña validación adicional antes de generar el certificado.
-        8. Si el botón no aparece, asegúrate de haber completado todos los módulos requeridos.
+        8. Si el botón no aparece, asegúrate de completar todos los módulos.
       </g:description>
       <g:link>https://tusitio.com/tutoriales/obtener-certificado</g:link>
       <g:image_link>https://tusitio.com/img/certificado-digital.jpg</g:image_link>
