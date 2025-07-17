@@ -2,26 +2,26 @@
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutoriales UNIV</title>
+    <title>Feed de Tutoriales UNIV</title>
     <link>https://preubasxml.vercel.app/</link>
-    <description>Feed de tutoriales para alumnos</description>
+    <description>Tutoriales sobre procesos académicos</description>
     <language>es</language>
     <atom:link href="https://preubasxml.vercel.app/ead.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Generar diploma universitario</title>
       <link>https://preubasxml.vercel.app/diploma</link>
-      <description>Aprende a generar tu diploma desde el portal LAM Trámite paso a paso.</description>
+      <description>Paso a paso para obtener tu diploma desde la plataforma LAM Trámite.</description>
       <guid>https://preubasxml.vercel.app/diploma</guid>
-      <pubDate>Tue, 16 Jul 2025 10:00:00 -0500</pubDate>
+      <pubDate>Tue, 16 Jul 2025 11:00:00 -0500</pubDate>
     </item>
 
     <item>
       <title>Solicitar certificado de estudios</title>
       <link>https://preubasxml.vercel.app/certificado</link>
-      <description>Sigue este tutorial para solicitar tu certificado académico.</description>
+      <description>Guía práctica para solicitar tu certificado desde el portal institucional.</description>
       <guid>https://preubasxml.vercel.app/certificado</guid>
-      <pubDate>Tue, 16 Jul 2025 11:00:00 -0500</pubDate>
+      <pubDate>Tue, 16 Jul 2025 11:30:00 -0500</pubDate>
     </item>
 
   </channel>
