@@ -7,9 +7,9 @@
     <language>es</language>
 
     <item>
-      <g:id>solicitar-diploma-tutorial-20250717</g:id>
-      <g:title>Guía paso a paso: Solicitar diploma universitario</g:title>
-      <g:description>
+      <id>solicitar-diploma-tutorial-20250717</id>
+      <title>Guía paso a paso: Solicitar diploma universitario</title>
+      <description>
         1. Haz clic en "Solicitar diploma"
         2. Inicia sesión si es requerido por el sistema.
         3. Selecciona el trámite correspondiente y haz clic en "Solicitar".
@@ -21,20 +21,20 @@
         9. Ve a "Mis trámites" y revisa el progreso del proceso.
         10. Descarga el comprobante de pago y el documento de la solicitud.
         11. Cuando finalice, descarga tu diploma desde "Mi trámite".
-      </g:description>
-      <g:link>https://tusitio.com/tutoriales/solicitar-diploma</g:link>
-      <g:image_link>https://tusitio.com/img/diploma-universitario.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>0.00 PEN</g:price>
-      <g:brand>TusTutoriales</g:brand>
-      <g:product_type>Soluciones/Diplomas</g:product_type>
+      </description>
+      <link>https://tusitio.com/tutoriales/solicitar-diploma</link>
+      <image_link>https://tusitio.com/img/diploma-universitario.jpg</image_link>
+      <availability>in stock</availability>
+      <condition>new</condition>
+      <price>0.00 PEN</price>
+      <brand>TusTutoriales</brand>
+      <product_type>Soluciones/Diplomas</product_type>
     </item>
 
     <item>
-      <g:id>generar-certificado-tutorial-20250717</g:id>
-      <g:title>Guía paso a paso: Obtener certificado de curso completado</g:title>
-      <g:description>
+      <id>generar-certificado-tutorial-20250717</id>
+      <title>Guía paso a paso: Obtener certificado de curso completado</title>
+      <description>
         1. Inicia sesión…
         2. Dirígete a la sección "Mis cursos completados".
         3. Localiza el curso finalizado y haz clic en el botón "Ver certificado".
@@ -43,14 +43,14 @@
         6. Puedes verificar la validez del certificado con el código único mostrado.
         7. Algunos cursos pueden solicitar una pequeña validación adicional antes de generar el certificado.
         8. Si el botón no aparece, asegúrate de completar todos los módulos.
-      </g:description>
-      <g:link>https://tusitio.com/tutoriales/obtener-certificado</g:link>
-      <g:image_link>https://tusitio.com/img/certificado-digital.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>0.00 PEN</g:price>
-      <g:brand>TusTutoriales</g:brand>
-      <g:product_type>Soluciones/Certificados</g:product_type>
+      </description>
+      <link>https://tusitio.com/tutoriales/obtener-certificado</link>
+      <image_link>https://tusitio.com/img/certificado-digital.jpg</image_link>
+      <availability>in stock</availability>
+      <condition>new</condition>
+      <price>0.00 PEN</price>
+      <brand>TusTutoriales</brand>
+      <product_type>Soluciones/Certificados</product_type>
     </item>
 
   </channel>
